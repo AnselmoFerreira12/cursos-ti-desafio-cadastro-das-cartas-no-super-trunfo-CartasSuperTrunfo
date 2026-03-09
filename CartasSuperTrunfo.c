@@ -76,7 +76,7 @@ int main() {
     printf("\n");
 
 
-    //INFORMAÇÕES DAS DUAS CARTAS:
+    //INFORMAÇÕES DAS DUAS CARTAS: 
 
 
     printf("INFORMAÇÕES DA CARTA 1:\n\n");
